@@ -1,0 +1,3 @@
+# 集合的主要操作添加：add update 删除：remove discard
+# 列表的主要操作添加：append，extend，insert
+	           删除：del,remove,pop,clear
